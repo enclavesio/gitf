@@ -1,6 +1,6 @@
 pragma solidity ^0.4.17;
 
-import 'zeppelin-solidity/contracts/Ownership/Ownable.sol';
+import 'zeppelin-solidity/contracts/ownership/Ownable.sol';
 import './GiftEth.sol';
 
 contract GiftEthFactory is Ownable {
